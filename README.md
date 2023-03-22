@@ -1,0 +1,2 @@
+# picbed
+private pictures storage
